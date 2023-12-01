@@ -1,3 +1,4 @@
+[![testing](https://github.com/fajarutamaa/binar-mock-test/actions/workflows/main.yml/badge.svg)](https://github.com/fajarutamaa/binar-mock-test/actions/workflows/main.yml)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/fajarutamaa/binar-mock-test/blob/main/LICENSE)
 
 ## binar-mock-test
